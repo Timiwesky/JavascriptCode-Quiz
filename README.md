@@ -21,7 +21,8 @@ The quiz should end when all questions are answered or the timer reaches 0.
 * When the game ends, it should display their score and give the user the ability to save their initials and their score
 
 ## Links
-   Link to <a href= "https://timiwesky.github.io/JavascriptCode-Quiz">GITHUBPAGE</a>
-   Link to <a href= "https://github.com/Timiwesky/JavascriptCode-Quiz">REPOSITORY</a>
+   Link to <a href= "https://timiwesky.github.io/JavascriptCode-Quiz">GitHub Page</a>
+   <br>
+   Link to <a href= "https://github.com/Timiwesky/JavascriptCode-Quiz">Repository</a>
 
 
