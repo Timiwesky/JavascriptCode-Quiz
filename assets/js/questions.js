@@ -13,7 +13,7 @@ const qtnsObject = [
       question: "Which keyword is used to declare a variable in JavaScript?",
       A: "variable",
       B: "var",
-      C: "v",
+      C: "VAR",
       answer: "B"
     },
     {
@@ -42,4 +42,3 @@ const qtnsObject = [
       },
 
   ];
-  
