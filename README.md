@@ -25,4 +25,6 @@ The quiz should end when all questions are answered or the timer reaches 0.
    <br>
    Link to <a href= "https://github.com/Timiwesky/JavascriptCode-Quiz">Repository</a>
 
+<img width="1432" alt="Screenshot 2023-12-08 at 6 16 05 PM" src="https://github.com/Timiwesky/JavascriptCode-Quiz/assets/115565053/515976d3-5a13-4c0c-b3bc-72fab4a4c158">
+
 
