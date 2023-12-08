@@ -102,7 +102,7 @@ function startQuiz(event) {
 startButton.addEventListener('click', startQuiz)
 
 
-// function that ends the Quiz
+
 function endQuiz() {
   timeLeft = 0;
   time.textContent = timeLeft
